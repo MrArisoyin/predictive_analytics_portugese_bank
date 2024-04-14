@@ -8,7 +8,7 @@ This project aims to develop a reliable predictive model to help a Portuguese ba
 
 
 
-## Table of Contents
+### Table of Contents
 - [Introduction](#introduction)
 - [Tools Used](#tools-used)
 - [Data Source](#data-source)
